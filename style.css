@@ -24,3 +24,11 @@ main {
     font-size: 16px;
     border-radius: 4px;
 }
+
+.blurred-background {
+    background-image: url("./bus-bckgrnd.jpg");
+    /* Replace with your image path */
+    background-size: cover;
+    /* filter: blur(5px); */
+    /* Adjust the blur radius as needed */
+}
